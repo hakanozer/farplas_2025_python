@@ -1,0 +1,26 @@
+### JS ###
+node_modules/
+dist/
+build/
+npm-debug.log*
+yarn-error.log*
+.env
+
+### Python ###
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+
+### Common ###
+logs/
+coverage/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
